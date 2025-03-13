@@ -33,8 +33,3 @@ streamlit run app.py
 - **Pandas** (Datenanalyse)
 - **Streamlit** (Webinterface)
 - **Plotly** (Visualisierung)
-
-## ✨ Autor
-- Dein Name / Teamname
-
-
