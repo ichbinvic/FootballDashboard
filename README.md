@@ -16,9 +16,11 @@ Dieses Projekt dient der Analyse und Visualisierung internationaler Fußballspie
   - Interaktives Dashboard mit Streamlit
   - Diagramme mit Plotly zur Darstellung von Team- und Turnierstatistiken
 
-2. **Benötigte Pakete installieren**
+**Benötigte Pakete installieren**
    ```sh
-   pip install -r requirements.txt
+   pip install streamlit
+   pip install plotly
+   pip install pandas
    ```
 
 ## 🚀 Anwendung starten
